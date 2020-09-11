@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16016" started-at="2020-05-13T18:50:46 EDT" finished-at="2020-05-13T18:51:02 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16016" started-at="2020-05-13T18:50:46 EDT" finished-at="2020-05-13T18:51:02 EDT">
+      <class name="rased.hasuTest">
+        <test-method status="PASS" signature="asa1()[pri:0, instance:rased.hasuTest@4b952a2d]" name="asa1" duration-ms="1" started-at="2020-05-13T18:51:02 EDT" finished-at="2020-05-13T18:51:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asa1 -->
+      </class> <!-- rased.hasuTest -->
+      <class name="rased.fizurTest">
+        <test-method status="PASS" signature="ss()[pri:0, instance:rased.fizurTest@69ea3742]" name="ss" is-config="true" duration-ms="10" started-at="2020-05-13T18:50:46 EDT" finished-at="2020-05-13T18:50:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ss -->
+        <test-method status="PASS" signature="check()[pri:0, instance:rased.fizurTest@69ea3742]" name="check" duration-ms="2" started-at="2020-05-13T18:50:46 EDT" finished-at="2020-05-13T18:50:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="lbrowser()[pri:0, instance:rased.fizurTest@69ea3742]" name="lbrowser" duration-ms="15958" started-at="2020-05-13T18:50:46 EDT" finished-at="2020-05-13T18:51:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lbrowser -->
+        <test-method status="PASS" signature="sa()[pri:0, instance:rased.fizurTest@69ea3742]" name="sa" is-config="true" duration-ms="1" started-at="2020-05-13T18:51:02 EDT" finished-at="2020-05-13T18:51:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sa -->
+      </class> <!-- rased.fizurTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
